@@ -24,9 +24,6 @@ None
 
 ## Usage
 
-Deployed Heroku application:
-https://notetakerun-4924ab0aa0b0.herokuapp.com
-
 ## License
 MIT
 
